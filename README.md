@@ -1,58 +1,70 @@
-# 👋 Hi there! I'm Gagan Kishore (he/him)
+<h1 align="center">🤖 GAGAN KISHORE</h1>
+<p align="center">A beginner's journey into AI and Web Development 🚀</p>
 
-> **GANKAI** - A beginner's journey into **AI** and **Web Development** 🚀
-
-<div align="center">
-  <br>
-  <img src="https://img.shields.io/badge/Student-VIT-blue" alt="Student at VIT">
-  <img src="https://img.shields.io/badge/Learning%20AI%20&%20Web%20Dev-In%20Progress-orange" alt="Learning AI & Web Dev">
-  <img src="https://komarev.com/ghpvc/?username=Gagankb-205&label=Profile+Views" alt="Profile Views">
-</div>
-
----
-
-## 🚀 About Me
-
-I'm a passionate student at **Vellore Institute of Technology (VIT)**, diving deep into the exciting realms of **Web Development** and **Artificial Intelligence**. My journey is all about learning, building, and contributing, starting with small projects and making my mark on GitHub.
-
-📚 Currently focused on expanding my knowledge in modern web technologies and the fundamentals of AI/ML.
-🌱 Eager to collaborate on interesting projects and contribute to open-source initiatives.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gankai&label=Profile+Views&color=0e75b6&style=flat" alt="gankai" />
+  <img src="https://img.shields.io/badge/Student-VIT-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Code-C++|Python|Java-ff69b4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Web-orange?style=flat-square" />
+</p>
 
 ---
 
-## 🛠️ My Current Tech Stack
+## 👋 About Me
 
-Here's a glimpse into the tools and languages I'm currently working with:
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
 
-* **Languages**: Python, C++, JavaScript
-* **Web**: HTML, CSS, React (currently learning and exploring!)
-* **AI/ML**: NumPy, pandas, scikit-learn (building foundational knowledge)
-* **Tools**: GitHub, VS Code, Figma
-
----
-
-## 🚧 What I'm Currently Building / Learning
-
-* Mastering responsive web layouts and design principles with HTML/CSS.
-* Strengthening my core Python skills for advanced Machine Learning applications.
-* Working towards deploying my very first personal website – stay tuned!
-* Exploring basic data analysis and visualization techniques.
+- 🎓  Student at **VIT Vellore**  
+- 💡  Curious about everything tech  
+- 🧠  Learning Web Dev + AI step-by-step  
+- 🌱  Building small passion projects  
+- 🗂️  Documenting my journey on GitHub  
 
 ---
 
-## 📫 Let's Connect!
+## 🛠️ Tech Stack
 
-I'm always open to learning and connecting with fellow developers and enthusiasts!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://linkedin.com/in/gagankb205)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Gagankb-205)
----
-
-## 📊 My GitHub Stats
-
-[![Gagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gagankb-205&show_icons=true&theme=radical&hide=prs)](https://github.com/Gagankb-205)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gagankb-205&layout=compact&theme=radical)](https://github.com/Gagankb-205)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,vscode,intellij" />
+</p>
 
 ---
 
-> "Every expert was once a beginner — keep shipping." 🚀�
+## 🚧 Current Goals
+
+- 🎯 Build responsive layouts with HTML & CSS  
+- 📦 Master core Python for Machine Learning  
+- 🧑‍💻 Learn Java fundamentals deeply  
+- 🌐 Deploy my first personal website (coming soon!)  
+- 📚 Contribute to open-source AI projects  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gankai&show_icons=true&theme=radical&hide=issues,contribs" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gankai&layout=compact&theme=radical&langs_count=5" height="160" />
+</p>
+
+---
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gagankishore/">
+    <img src="https://img.shields.io/badge/LinkedIn-GaganK-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Gagankb-205">
+    <img src="https://img.shields.io/badge/GitHub-Gagankb--205-black?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+  <a href="mailto:gagankb2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gagankb2006@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Exploring+the+world+of+AI+🧠;Building+cool+stuff+on+the+Web+🌐;Still+Learning...+Always+Curious!" />
+</p>
+
